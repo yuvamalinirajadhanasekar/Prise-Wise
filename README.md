@@ -120,7 +120,7 @@ The frontend handles user interactions, the backend processes requests, and Serp
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/yuvamalinirajadhanasekar/Prise-Wise
    ```
 
 2. Open the project folder:
@@ -154,7 +154,6 @@ The frontend handles user interactions, the backend processes requests, and Serp
 
    `http://localhost:3000`
 
-**Note:** Replace the example values with your own credentials. Never commit the `.env` file to GitHub.
 
 ## ☁️ Deployment
 
