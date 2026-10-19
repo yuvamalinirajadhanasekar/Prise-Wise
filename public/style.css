@@ -682,21 +682,10 @@ button.light {
     padding: 25px;
   }
 }
-.site-logo {
-  width: 180px;
-  height: auto;
-  display: block;
+.brand-icon {
+  width: 42px;
+  height: 42px;
   object-fit: contain;
-}
-
-.brand {
-  display: inline-flex;
-  align-items: center;
-  text-decoration: none;
-}
-
-@media (max-width: 600px) {
-  .site-logo {
-    width: 135px;
-  }
+  border-radius: 10px;
+  flex-shrink: 0;
 }
